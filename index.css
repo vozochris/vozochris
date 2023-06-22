@@ -1,0 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/expressway');body,html {
+    font-size: 16px;
+}
+body {
+    font-family: 'Expressway Rg', sans-serif;
+}
+p {
+    font-size: 1rem;
+}
+a {
+    font-size: 1rem;
+}
