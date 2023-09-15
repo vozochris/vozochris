@@ -1,3 +1,3 @@
 Hello, I am vozochris
 
-Rust, Ruby & C# programmer | Rails web developer | Unity game developer
+Mainly Ruby, Rust & C# programmer | full-stack web developer | game developer
